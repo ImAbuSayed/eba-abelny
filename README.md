@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيناك نجمتان في ليل طويل
+> روحي تناديك بصوت جميل
+> دعيني أذوب في حضنك الدافئ
+> أشعر بشوقي كأنه السحر الخافي
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
