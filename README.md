@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 22, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/eba-abelny/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Eba Abelny](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
