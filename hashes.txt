@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eba Abelny
+
+This log tracks the cryptographic history and versioning for the song **Eba Abelny** (eba-abelny).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:24:19.950443 | `v1` | `707c736b35b9c3a577fd169599e47545d32fceea8d76ae15f8be25a93765b712` | `1ed5527a72a925cf112c5b372a45bbe6ed0a71b12bc29b0e53475370a9bd864a` | `2026-05-09_eba-abelny-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
